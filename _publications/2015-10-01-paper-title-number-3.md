@@ -6,6 +6,8 @@ permalink: /publication/2010-10-01-paper-title-number-3
 excerpt: 'This link contains the full list of publication in journals.'
 ---
 
+11. Pandey S., Schumacher J. Sreenivasan K.R., 2020,[ A perspective on machine learning in turbulent flows](https://www.tandfonline.com/doi/abs/10.1080/14685248.2020.1757685), Journal of Turbulence.
+
 10. Chu, X., Yang, G., Pandey, S. and Weigand, B., 2019. [Direct numerical simulation of convective heat transfer in porous media. International Journal of Heat and Mass Transfer](https://www.sciencedirect.com/science/article/abs/pii/S0017931018356436), 133, pp.11-20.
 
 9. Föll, F., Pandey, S., Chu, X., Munz, C.-D., Laurien, E., and Weigand, B., 2019. [High-Fidelity Direct Numerical Simulation of Supercritical Channel Flow Using Discontinuous Galerkin Spectral Element Method](https://link.springer.com/chapter/10.1007/978-3-030-13325-2_17). In High Performance Computing in Science and Engineering'18 (pp. 275-289). Springer, Cham.
@@ -25,3 +27,6 @@ excerpt: 'This link contains the full list of publication in journals.'
 2. Pandey, S. and Laurien, E., 2016. [Heat transfer analysis at supercritical pressure using two layer theory](https://www.sciencedirect.com/science/article/pii/S0896844615301789). The Journal of Supercritical Fluids, 109, pp.80-86.
 
 1. Chu, X., Laurien, E. and Pandey, S., 2016. [Direct Numerical Simulation of Heated Pipe Flow with Strong Property Variation](https://link.springer.com/chapter/10.1007/978-3-319-47066-5_32). In High Performance Computing in Science and Engineering´ 16 (pp. 473-486). Springer, Cham.
+
+{: reversed="reversed"}
+
