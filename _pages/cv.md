@@ -40,6 +40,7 @@ Skills
 ======
 * Programming: C++, Python, MATLAB, FORTRAN, git.
 * Machine learning: Python, TensorFlow, Keras, Scikit-learn.
+* Data Visualization: Power BI, Tabaleau, matplotlib, Seaborn, Matlab, Kepler.gl.
 * Computational fluid dynamics: OpenFOAM, Nektar++, Ansys workbench, gmsh, ICEM.
 
 
