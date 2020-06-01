@@ -1,7 +1,7 @@
 ---
 title: 'Kepler GL from Uber'
 date: 2020-06-01
-permalink: /posts/2013/08/blog-post-2/
+permalink: /posts/keplergl
 tags:
   - Geospatial data
   - Data visualization
