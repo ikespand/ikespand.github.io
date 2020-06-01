@@ -1,15 +1,17 @@
 ---
 title: 'Kepler GL from Uber'
-date: 2013-08-14
+date: 2020-06-01
 permalink: /posts/2013/08/blog-post-2/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Geospatial data
+  - Data visualization
+  - Online visualization
 ---
 
 <iframe src="http://kepler.gl/#/demo" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
 
+
+Drag and drop data
 
 <!-- hitwebcounter Code START -->
 <a href="https://www.hitwebcounter.com" target="_blank">
