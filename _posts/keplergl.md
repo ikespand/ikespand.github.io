@@ -8,7 +8,7 @@ tags:
   - Online visualization
 ---
 
-<iframe src="http://kepler.gl/#/demo" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
+<iframe src="https://kepler.gl/#/demo?mapUrl=https://github.com/ikespand/ikespand.github.io/blob/master/_data/keplergl.json" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
 
 
 Drag and drop data
