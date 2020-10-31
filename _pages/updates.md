@@ -4,6 +4,8 @@ title: "Updates"
 permalink: /updates/
 author_profile: true
 ---
+**October 2020**: Our paper on non-uniform body force is accepted by Physical Review Fluids, where we have used Nektar++ CFD code. Paper is [available online](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.5.104604) now.
+
 **May 2020**: Our paper on machine learning and turbulence is accepted by Journal of Turbulence. You can check out the paper by [clicking here](https://www.tandfonline.com/doi/abs/10.1080/14685248.2020.1757685){:target="_blank"}. 
 
 **February 2020**: I have joined Veoneer GmbH as Analytics Tool Software Engineer. I will be focusing on development of different tools and module to analyse and visualize large amount of automotive data which will support the development of autonomous vehicle. 
