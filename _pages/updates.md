@@ -5,7 +5,7 @@ permalink: /updates/
 author_profile: true
 ---
 
-**November 2020**: Paper regarding the reservoir computing and POD is now availbale at (Physical Review Fluids)[https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.5.113506].
+**November 2020**: Paper regarding the reservoir computing and POD is now availbale at [Physical Review Fluids](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.5.113506).
 
 **November 2020**: Made [rasta](https://github.com/ikespand/rasta) opensource which is a light weight library in Python for geospatial data (Gpx, GTFS and some navigation servies.)
 
