@@ -9,7 +9,7 @@ date: 2019-08-10
 #citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
-11. F. Hyder, S. Pandey, J. Schumacher, (Reservoir Computing of Dry and Moist Turbulent Convection)[https://meetings.aps.org/Meeting/DFD20/Session/F16.4], 73rd Annual Meeting of the APS Division of Fluid Dynamics, 22 November, 2020 (Virtual).
+11. F. Hyder, S. Pandey, J. Schumacher, ["Reservoir Computing of Dry and Moist Turbulent Convection"](https://meetings.aps.org/Meeting/DFD20/Session/F16.4), 73rd Annual Meeting of the APS Division of Fluid Dynamics, 22 November, 2020 (Virtual).
 
 10. E. Laurien, S. Pandey, “Direct-Numerical Simulation of Flow and Heat Transfer within Channels of a Supercritical-CO2 Cooler”, In Proceedings of 3rd European supercritical CO2 Conference, 27-29 September 2019, Paris, France. 
 
