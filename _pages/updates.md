@@ -2,8 +2,10 @@
 layout: archive
 title: "Updates"
 permalink: /updates/
-author_profile: true
+author_profile: false
 ---
+
+**April 2022**: Research article on dimensionality reduction and temporal modes training with recurrent neural network is out in [Physical Review Fluids](https://aip.scitation.org/doi/full/10.1063/5.0087977).
 
 **November 2020**: Paper regarding the reservoir computing and POD is now availbale at [Physical Review Fluids](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.5.113506).
 
