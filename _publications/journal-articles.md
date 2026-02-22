@@ -6,6 +6,14 @@ permalink: /publication/journal-articles
 excerpt: 'This link contains the full list of publications in various journals.'
 ---
 
+21. Chu X., Pandey S., Liu Y., Weiang B., 2026, [Modeling of Coupled Turbulent Channel-Porous Media Flow Through a Deep Autoencoder-Echo State Network Framework](https://link.springer.com/chapter/10.1007/978-3-031-91312-9_22), High Performance Computing in Science and Engineering '23. 
+
+20. Wang W., Xu R., Feng J., Zhang Q., Pandey S.,  Chu X., 2025. [A status quo investigation of large-language models for cost-effective computational fluid dynamics automation with OpenFOAMGPT](https://www.sciencedirect.com/science/article/pii/S2095034925000558), Theoretical and Applied Mechanics Letters.
+
+19. Feng J., Qi Y., Xu R., Pandey S., Chu X., 2025. [turbulence. ai: an end-to-end AI Scientist for fluid mechanics](https://www.sciencedirect.com/science/article/pii/S2095034925000522), Theoretical and Applied Mechanics Letters.
+
+18. Pandey S., Xu R., Wang W., Chu X., , 2025. [OpenFOAMGPT: A retrieval-augmented large language model (LLM) agent for OpenFOAM-based computational fluid dynamics](https://pubs.aip.org/aip/pof/article-abstract/37/3/035120/3338372/OpenFOAMGPT-A-retrieval-augmented-large-language?redirectedFrom=fulltext), Physics of Fluids.
+
 17. Chu X., Pandey S., 2024. [Non-intrusive, transferable model for coupled turbulent channel-porous media flow based upon neural networks](https://pubs.aip.org/aip/pof/article/36/2/025112/3262262), Physics of Fluids.
 
 16. Pandey S., Teutsch P., Mäder P., Schumacher J., 2022. [Direct data-driven forecast of local turbulent heat flux in Rayleigh–Bénard convection](https://aip.scitation.org/doi/full/10.1063/5.0087977), Physics of Fluids.
